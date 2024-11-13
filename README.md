@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ankittyadav01
 - 👀 I’m interested in Flutter Developer
 - 🌱 I’m currently learning Flutter 
-- 💞️ I’m looking to collaborate on WhatsApp 
 - 📫 How to reach me 7559333401
 
 <!---
